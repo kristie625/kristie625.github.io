@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: The 5 Domains of Health Informatics
+description:
 
-url: http://brianmaierjr.github.com/long-haul
+url: http://kristie625.github.com/
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -20,9 +20,9 @@ navigation:
    url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: kristie625
+   twitter: 
+   facebook: 
+   email: kristie_625@yahoo.com
 
-google_analytics: "UA-58263416-1"
+google_analytics: ""
